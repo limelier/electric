@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "advice/troubleshooting tips.md",
+                "file": "components/resistor.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,13 @@
             "id": "24e8933df983a7e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "components/resistor.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Resistor_Color_Code.svg"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,9 +138,17 @@
                 "file": "components/resistor.md"
               }
             }
+          },
+          {
+            "id": "b1a96f004cc78e66",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -159,11 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75db7a8cd073ec10",
+  "active": "6fe638a5bc69fc8d",
   "lastOpenFiles": [
+    "images/Resistor_Color_Code.svg",
+    "components/resistor.md",
+    "advice/troubleshooting tips.md",
+    "images/resistor color codes.png",
+    "images/resistor.png",
+    "Pasted image 20240113122039.png",
     "units and measures/resistance.md",
     "units and measures/ohm.md",
-    "components/resistor.md",
     "advice/safety.md",
     "laws and equations/voltage divider formula.md",
     "notions and concepts/voltage divider.md",
@@ -171,7 +181,6 @@
     "notions and concepts/series and parallel.md",
     "laws and equations/Ohm's law.md",
     "notions and concepts/tools for building circuits.md",
-    "advice/troubleshooting tips.md",
     "units and measures/SI prefixes.md",
     "advice/table method.md",
     "notions and concepts/open circuit failure.md",
@@ -189,11 +198,9 @@
     "units and measures/conductance.md",
     "units and measures/ampere.md",
     "units and measures/elementary charge.md",
-    "units and measures/coulomb.md",
     "images/in series.png",
     "images/variable_resistors.png",
     "images/resistor2.png",
-    "images/resistor.png",
     "Untitled.canvas",
     "wow/wow/wow",
     "wow/wow",
