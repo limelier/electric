@@ -1,0 +1,4 @@
+- rubbing two objects together can sometimes result in them becoming electrically charged
+- one object will take electrons from the other, leaving them positively- and negatively-charged
+- the **elementary charge**: $+e = 1.60217663 × 10^{-19}C$
+- **static electricity**: the imbalance of electrons between two objects insulated from each other

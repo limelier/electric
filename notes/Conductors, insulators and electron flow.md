@@ -1,0 +1,11 @@
+- some materials are **conductors**, meaning electrons move freely within them, and some are **insulators**, which means they have low electron mobility
+- conductive materials have more *free electrons*, which are free to leave their respective atoms and travel to adjacent ones
+- the conductivity of a material can change with temperature
+	- hot metals are less conductive, cold medals more so
+		- extremely low temperatures can cause [[superconductivity]]
+	- glass and air, normally insulators, can become conductive at very high temperatures
+- **electricity** is the ordered flow of electrons through a conductive material
+- electrons moving through a conductor push each other
+	- the starting and stopping of electron flow through a length of conductor travels at the speed of light; think a Newton's cradle
+	- actual electrons move much slower
+- air is an insulator, which means that a break in a conductive circuit will stop the flow of electrons

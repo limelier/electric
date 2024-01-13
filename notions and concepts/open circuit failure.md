@@ -1,0 +1,1 @@
+An **open circuit failure** is a failure in a [[electrical circuit|circuit]] that causes a point of near-infinite [[resistance]], effectively it open when it is intended to be closed.

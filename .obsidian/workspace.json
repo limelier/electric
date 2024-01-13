@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "4430d46ac3600195",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76cb22345fda51b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe638a5bc69fc8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "advice/troubleshooting tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24e8933df983a7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "components/resistor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54668744845fbc46",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f38b2eacebca576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aa7c1b1417c6526",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6ac338e41b56dfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "805e6147ba49db99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "6b58c7ca2e4956a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a5d3c3e948900c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba481d2962519780",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "components/resistor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b2d7bdfc19e9ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "components/resistor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87f08259c91b0c79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75db7a8cd073ec10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "components/resistor.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "75db7a8cd073ec10",
+  "lastOpenFiles": [
+    "units and measures/resistance.md",
+    "units and measures/ohm.md",
+    "components/resistor.md",
+    "advice/safety.md",
+    "laws and equations/voltage divider formula.md",
+    "notions and concepts/voltage divider.md",
+    "units and measures/voltage.md",
+    "notions and concepts/series and parallel.md",
+    "laws and equations/Ohm's law.md",
+    "notions and concepts/tools for building circuits.md",
+    "advice/troubleshooting tips.md",
+    "units and measures/SI prefixes.md",
+    "advice/table method.md",
+    "notions and concepts/open circuit failure.md",
+    "notions and concepts/electrical circuit.md",
+    "notions and concepts/short circuit.md",
+    "notions and concepts/jumper wire.md",
+    "advice",
+    "laws and equations/Joule's law.md",
+    "images/table method example.png",
+    "units and measures/Siemens.md",
+    "units and measures/electrical charge.md",
+    "units and measures/power.md",
+    "notes/Conductors, insulators and electron flow.md",
+    "images/in parallel.png",
+    "units and measures/conductance.md",
+    "units and measures/ampere.md",
+    "units and measures/elementary charge.md",
+    "units and measures/coulomb.md",
+    "images/in series.png",
+    "images/variable_resistors.png",
+    "images/resistor2.png",
+    "images/resistor.png",
+    "Untitled.canvas",
+    "wow/wow/wow",
+    "wow/wow",
+    "wow",
+    "laws and equations",
+    "notions and concepts",
+    "notes",
+    "components",
+    "units and measures",
+    "images/diode.png",
+    "images"
+  ]
+}
