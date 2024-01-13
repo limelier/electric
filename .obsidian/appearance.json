@@ -1,3 +1,6 @@
 {
-  "accentColor": "#93af2c"
+  "accentColor": "#93af2c",
+  "enabledCssSnippets": [
+    "white_bg"
+  ]
 }

@@ -23,4 +23,5 @@ Resistors are typically labelled with 3, 4 or 5 color bands. These are grouped a
 - 1 multiplier band (number of trailing zeroes, or multiplier power of 10)
 - 1 optional tolerance band (if absent, tolerance is 20%)
 The tolerance band is separated from the rest by a bigger gap, which indicates the reading direction.
-![[Resistor_Color_Code.svg]]
+
+![[Resistor_Color_Code.svg|white]]

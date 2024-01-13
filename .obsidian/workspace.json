@@ -147,12 +147,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fe638a5bc69fc8d",
+  "active": "ba481d2962519780",
   "lastOpenFiles": [
     "images/Resistor_Color_Code.svg",
     "components/resistor.md",
